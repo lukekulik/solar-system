@@ -20,21 +20,21 @@
 
 * press S to enter spaceship mode
 
-**Thrusters**: (to accelerate faster * just hold the button)
-
-* press ARROW UP to accelerate in the direction of motion
-* press ARROW DOWN to decelerate in the direction of motion 
-* press ARROW RIGHT to accelerate towards the Sun
-* press ARROW LEFT to accelerate from the Sun 
-* press D to accelerate upwards (when in clockwise orbit)
-* press C to accelerate downwards (when in clockwise orbit)
-* press 0 to shut down all thrusters
-
- **Pre-programmed scenarios**: (use them if spaceship goes out of control)
-* press 1 to choose Lagrange point 3 (L3 'counter-Earth')
-* press 2 to choose polar orbit around the Sun
-* press 3 to choose orbit of the probe Helios 2
-* press 4 to choose the orbit of Halley’s comet
+    **Thrusters**: (to accelerate faster * just hold the button)
+    
+    * press ARROW UP to accelerate in the direction of motion
+    * press ARROW DOWN to decelerate in the direction of motion 
+    * press ARROW RIGHT to accelerate towards the Sun
+    * press ARROW LEFT to accelerate from the Sun 
+    * press D to accelerate upwards (when in clockwise orbit)
+    * press C to accelerate downwards (when in clockwise orbit)
+    * press 0 to shut down all thrusters
+    
+    **Pre-programmed scenarios**: (use them if spaceship goes out of control)
+    * press 1 to choose Lagrange point 3 (L3 'counter-Earth')
+    * press 2 to choose polar orbit around the Sun
+    * press 3 to choose orbit of the probe Helios 2
+    * press 4 to choose the orbit of Halley’s comet
 
 
 ##### Requirements:
