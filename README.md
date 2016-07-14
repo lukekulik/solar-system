@@ -1,4 +1,5 @@
 # Solar System Simulation 3D:
+![Solar system simulation screenshots](screenshots.png)
 
 ##### Features:
 * fast and accurate representation of all of the planets and bigger moons using Keplerian elements in 3D (including tilt, spin and tidal locking of applicable moons e.g. Earth’s moon)
@@ -49,4 +50,3 @@
 * moons are not labeled
 * due to float precision moons are not perfectly tidally locked 
 
-![Solar system simulation screenshots](screenshots.png)
