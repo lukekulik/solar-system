@@ -48,3 +48,5 @@
 * gravity of the planets is not accounted for in the spaceship simulation (issues with scale factor for the planets radii)
 * moons are not labeled
 * due to float precision moons are not perfectly tidally locked 
+
+![Solar system simulation screenshots](screenshots.png)
